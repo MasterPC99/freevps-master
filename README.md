@@ -1,7 +1,7 @@
 WINDOWS SERVER (EspecificacionesPC):
-16 GB DE RAM
-AMD
-Server Microsoft(Network): 10Gb/s
+* 16 GB DE RAM
+* AMD
+* Server Microsoft(Network): 10Gb/s
 
 REQUERIMIENTOS MASTER:
 1. https://github.com/MasterPC99/BaileysWaBot
